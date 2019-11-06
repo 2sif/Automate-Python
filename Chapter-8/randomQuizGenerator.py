@@ -23,7 +23,7 @@ capitals = {'Alabama': 'Montgomery', 'Alaska': 'Juneau', 'Arizona': 'Phoenix',
    'Montpelier', 'Virginia': 'Richmond', 'Washington': 'Olympia', 
    'West Virginia': 'Charleston', 'Wisconsin': 'Madison', 'Wyoming': 'Cheyenne'}
 
-os.chdir("/home/khan/Documents/Projects/Automate-Python/Chapter-8/quiz")
+os.chdir("./Chapter-8/quiz")
 
 # Generate 35 quiz files.
 for quizNum in range(35):
